@@ -1,16 +1,15 @@
-# Halo, Saya Jeni Riska Fatihatul Mariam👋
 
-!Profile views  
-!GitHub followers
+<h1 align="center">Hello, I am Jeni Riska Fatihatul Mariam👋</h1>
 
-## Tentang Saya
-👨‍💻 Saya seorang _pelajar yang tertarik dengan dunia pemrograman_  
-🎓 Saya belajar di _Universitas Indraprasta PGRI_  
-🌱 Saat ini saya sedang belajar _Di Jurusan Teknik Informatika_  
-📫 Contact : _riska.jeen@gmail.com_
+<p>🎓 I am an active final year student of Informatics Engineering at Indraprasta PGRI University, and a graduate of Bangkit Academy 2023 majoring in Cloud Computing.</p>
+<p>🌱 I get a lot of training and experience in learning about technology, especially Cloud Computing, such as using Google Cloud Platform. </p>
+<p>👨‍💻 I managed to become one of the Best Team capstone Company at Bangkit Academy 2023. I have a great interest to participate in improving my skills and knowledge in the field of technology, as well as applying the knowledge I have learned for the common good.</p>
 
-## Statistik GitHub
-!GitHub stats
+## Contact Me
+📩 Email        : _riska.jeen@gmail.com_
+<p>📫 Linkedln  : <a href="https://www.linkedin.com/in/jeni-riska-fatihatul-mariam">LinkedIn</a></p>
 
-## Bahasa Pemrograman Paling Sering Digunakan
-!Top Langs
+## Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jenien&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
