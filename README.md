@@ -1,8 +1,8 @@
 
 <h1 align="center">Hello, I am Jeni Riska Fatihatul Mariam👋</h1>
 
-<p>🎓 I am an active final year student of Informatics Engineering at Indraprasta PGRI University, and a graduate of Bangkit Academy 2023 majoring in Cloud Computing.</p>
-<p>🌱 I get a lot of training and experience in learning about technology, especially Cloud Computing, such as using Google Cloud Platform. </p>
+<p>🎓 I am an active final year student of Informatics Engineering at Indraprasta PGRI University</p>
+<p>🌱 I get a lot of training and experience in learning about technology</p>
 <p>👨‍💻 I managed to become one of the Best Team capstone Company at Bangkit Academy 2023. I have a great interest to participate in improving my skills and knowledge in the field of technology, as well as applying the knowledge I have learned for the common good.</p>
 
 ## Contact Me
